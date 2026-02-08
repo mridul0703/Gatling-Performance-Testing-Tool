@@ -1,4 +1,4 @@
-# Gatling-Based Performance Testing Framework
+# Gatling_Performance-Testing-Tool
 
 A comprehensive performance testing framework built using **Gatling (Java DSL)** to evaluate scalability, reliability, and throughput of real-world HTTP APIs under different traffic models.
 
