@@ -1,8 +1,5 @@
 # Gatling-Based Performance Testing Framework
 
-**Author:** Mridul M Kumar  
-**Scholar ID:** 25204041104  
-
 A comprehensive performance testing framework built using **Gatling (Java DSL)** to evaluate scalability, reliability, and throughput of real-world HTTP APIs under different traffic models.
 
 This project demonstrates how modern asynchronous, non-blocking load testing can be used to simulate **thousands of concurrent users** and identify system bottlenecks before production failures occur.
@@ -233,18 +230,6 @@ Each run includes:
 
 ---
 
-## Academic & Professional Value
-
-Suitable for:
-
-- M.Tech / B.Tech projects  
-- SDET portfolios  
-- Performance Engineer interviews  
-- Backend reliability validation  
-- CI/CD performance gates  
-
----
-
 ## Limitations
 
 - No UI testing (backend only)  
@@ -297,11 +282,6 @@ Attribution is appreciated but not required.
 
 **Mridul M Kumar**  
 Performance & Backend Engineering  
-GitHub: https://github.com/<your-username>  
-LinkedIn: https://linkedin.com/in/<your-profile>
+[GitHub](https://github.com/mridul0703), [Portfolio](https://mridul0703.vercel.app/)
 
 ---
-
-## Resume Line
-
-Designed and implemented a scalable performance testing framework using Gatling (Java DSL), covering sequential workflows, authenticated APIs, CSV-driven scenarios, spike testing, and automated reporting for large-scale backend systems.
